@@ -1,0 +1,16 @@
+.product{
+    width: 20rem;
+    margin-top: 2rem;
+}
+
+.product img {
+    max-height: 15rem;
+}
+
+.bth-primary{
+    text-align: center;
+}
+
+.card-product{
+
+}
