@@ -1,10 +1,12 @@
 .product{
     width: 20rem;
     margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-width: 15rem;
 }
 
 .product img {
-    max-height: 15rem;
+    max-height: 10rem;
 }
 
 .bth-primary{

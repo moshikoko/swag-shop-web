@@ -1,0 +1,19 @@
+.pc-condensed a{
+margin-right: 25px;
+}
+
+li {
+    list-style: none;
+}
+
+.card-block .p{
+    color: red;
+}
+
+.btn-outline-danger{
+    color: #754d4a !important;
+}
+
+.wishList-title{
+    padding-top: 15px;
+}
